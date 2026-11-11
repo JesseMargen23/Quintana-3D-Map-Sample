@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/quintana-3d-map/'
+  base: '/Quintana-3D-Map-Sample/'
 })
